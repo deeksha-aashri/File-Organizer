@@ -7,4 +7,4 @@ Commands:</br>
 2- node main.js organize filepath => This command creates a folder known as organized_files at the given path and categorizes our files as per their extensions.</br>
 3- node main.js tree filepath => This command creates a tree of the files and folders contained at the given filepath where each branch is a folder, the sub-branches represent the files inside the said folder.</br>   
 
-Note: The tree command involves recursion.</br>
+Note: The tree command involves the use recursion.</br>
